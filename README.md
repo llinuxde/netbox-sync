@@ -1,4 +1,4 @@
-
+![example workflow](https://github.com/llinuxde/netbox-sync/actions/workflows/docker-image.yml/badge.svg)
 # NetBox-Sync
 
 This is a tool to sync data from different sources to a NetBox instance.
